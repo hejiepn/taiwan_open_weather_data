@@ -1,0 +1,17 @@
+# Geheimnisse – niemals committen
+.env
+.env.*
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Lokale Tests (DRY_RUN schreibt hierhin)
+state.dryrun.json
+*.tmp
+
+# System
+.DS_Store
