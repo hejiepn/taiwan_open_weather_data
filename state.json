@@ -83,8 +83,8 @@
   "2026-TD35": {
    "announced": false,
    "band": 0,
-   "cat": 0,
-   "name": "Tropisches Tief Nr. 35"
+   "cat": 1,
+   "name": "Cempaka (查帕卡)"
   }
  },
  "warnings": [
