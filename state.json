@@ -82,13 +82,6 @@
  "schema": 1,
  "ty_warning": "none",
  "typhoons": {
-  "2026-TD34": {
-   "announced": false,
-   "band": 0,
-   "cat": 1,
-   "gone_since": "2026-11-06",
-   "name": "In-Fa (煙花)"
-  },
   "2026-TD35": {
    "announced": true,
    "band": 0,
